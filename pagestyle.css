@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: linear-gradient(to bottom right, rgb(117, 96, 111),rgb(100, 193, 190));
+}
+nav{
+    background: rgb(62, 66, 92);
+    font-size: 1.3rem;
+    padding: 1.5rem 1.5rem ;
+    overflow: hidden;
+}
+nav a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 500;
+    margin: 10px;
+}
+.Mb:hover{
+    background: goldenrod;
+    color:white;
+    padding: 1rem 1rem;
+    border-radius: 5px;
+
+}
+.Mbs{
+    float: right;
+    padding: .5rem .5rem;
+    width: 300px;
+}
+.Mip{
+    width: 60px;
+    height: 50px;
+    float: left;
+    border-radius: 50%;
+}
+.Mh1{
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(156, 68, 95), rgb(236, 155, 112));
+    padding: 1rem;
+}
+.hide{
+    visibility: hidden;
+    padding: 20px 20px;
+}
+.Backbox{
+    border: 1px black;
+    background: rgb(181, 162, 16);
+    margin: auto;
+    border-radius: 90px;
+    width: 85%;
+    height: auto;
+    padding: 30px 20px 20px 20px;
+}
+#certi{
+    border: 1px black;
+    border-radius: 20px;
+    margin-top: 20px ;
+    background:linear-gradient(to bottom right, rgb(156, 68, 95), rgb(236, 155, 112)); 
+    width: 98%;
+    height: auto;
+    overflow: hidden;
+}
+.Certimg{
+    float: left;
+    width: 20%;
+    height: auto;
+    display: block;
+
+}
+.artim{
+    padding: 10px 5px 1px 21%;
+    font-size: 15px;
+}
+.artim h4{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+footer{
+    background: 1.0rem rgb(54, 51, 51);
+    padding: 8rem 8rem;
+    color: azure;
+  }
+  footer a{
+    text-decoration: none;
+    display:inline-table;
+    color: azure;
+    padding: .8rem;
+    font-size: 1.5rem;
+  }
+.siz{
+    width: 20px;
+    height: 20px;
+    border-radius: 7px;
+}
+.soci{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 2rem;
+}
+.Copyrig{
+    padding-top: 30px;
+    float: right;
+  }
+  
+footer a:hover{
+    background: rgba(153, 205, 50, 0.284);
+    color: aliceblue;
+    border-radius: 10px;
+}
+ 
